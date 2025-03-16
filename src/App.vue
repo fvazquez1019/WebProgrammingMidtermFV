@@ -1,6 +1,6 @@
 <template><!--Template Section -->
   <n-layout>
-      <n-layout-header class="app-header">  <!--Header Section-->                                   
+      <n-layout-header class="app-header">  <!--Header Section -->                                   
         <div class="website_name">Francisco's Website</div>
         <div class="nav-buttons">   <!--Buttons for navigation through sections-->
           <n-button quaternary @click="currentView = Home">Home</n-button>
