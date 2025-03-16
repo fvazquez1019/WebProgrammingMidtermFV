@@ -50,15 +50,3 @@ To preview the production build locally:
 
 npm run preview
 
-
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests. Please adhere to the established coding standards and add tests where applicable.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-You can save this content as a `README.md` file in the root of your project. Let me know if you’d like to adjust any sections or add further details!
